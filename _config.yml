@@ -1,6 +1,6 @@
 name: TextNinjaUno
 favicon: null
-layout_spectrum: 0.857296478934586
+layout_spectrum: 0.50662
 typography_spectrum: 0.8653236739337444
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7872151506599039
-  lightness: 0.4707914765458554
-  saturation: 0.3695020298473537
-  rhythmicContrast: 0.06265638279728591
+    - '#414142'
+    - '#ffffff'
+    - '#ad8558'
+    - '#f26522'
+    - '#b5b5b5'
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
