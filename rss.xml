@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[TextNinjaUno]]></title>
         <description><![CDATA[TextNinjaUno]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/textninjauno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 19:02:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 19:08:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/textninjauno/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Catastrophe avoided...mostly.]]></title>
-            <description><![CDATA[<article><h1>Catastrophe avoided...mostly.</h1><p>This could have been a lot worse.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afcb3d2e-134c-49e6-b8ea-ed1b1bbb6f4e.jpg"></article>]]></description>
-            <link>undefinedcatastrophe-avoidedmostly/index.html</link>
+            <description><![CDATA[<article><h1>Catastrophe avoided...mostly.</h1><p>This could have been a lot worse.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e9073f460de349cbffb99a1fea73299b5ef3dd4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/textninjauno/catastrophe-avoidedmostly/index.html</link>
             <guid isPermaLink="false">45237cd5-6c87-4749-8614-e12717102cf2</guid>
             <pubDate>Mon, 11 Apr 2016 19:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://blogs.mprnews.org/newscut/2016/04/video-texting-driver-hits-hudson-police-car/</p>]]></description>
+            <link>https://thegrid.ai/textninjauno/e5e65a76-a398-4954-812a-f73a493252a4/index.html</link>
+            <guid isPermaLink="false">e5e65a76-a398-4954-812a-f73a493252a4</guid>
+            <pubDate>Mon, 11 Apr 2016 19:08:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
