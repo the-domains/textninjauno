@@ -4,7 +4,7 @@
         <description><![CDATA[TextNinjaUno]]></description>
         <link>https://thegrid.ai/textninjauno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 19:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 19:15:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/textninjauno/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Catastrophe avoided...mostly.]]></title>
@@ -40,6 +40,13 @@
             <link>https://thegrid.ai/textninjauno/a746ae3c-9895-415b-b71d-05298837e26b/index.html</link>
             <guid isPermaLink="false">a746ae3c-9895-415b-b71d-05298837e26b</guid>
             <pubDate>Mon, 11 Apr 2016 19:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://blogs.mprnews.org/newscut/2016/04/video-texting-driver-hits-hudson-police-car/</p>]]></description>
+            <link>https://thegrid.ai/textninjauno/e5e65a76-a398-4954-812a-f73a493252a4/index.html</link>
+            <guid isPermaLink="false">e5e65a76-a398-4954-812a-f73a493252a4</guid>
+            <pubDate>Mon, 11 Apr 2016 19:08:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
