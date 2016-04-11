@@ -4,7 +4,7 @@
         <description><![CDATA[TextNinjaUno]]></description>
         <link>https://thegrid.ai/textninjauno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 19:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 19:15:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/textninjauno/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Catastrophe avoided...mostly.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/textninjauno/catastrophe-avoidedmostly/index.html</link>
             <guid isPermaLink="false">45237cd5-6c87-4749-8614-e12717102cf2</guid>
             <pubDate>Mon, 11 Apr 2016 19:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Video: Texting driver hits Hudson police car]]></title>
+            <description><![CDATA[<article><h1>Video: Texting driver hits Hudson police car</h1><p>On the way in to the World Headquarters of NewsCut today, I sat behind a car at a light in Woodbury that was green. The woman - and not a kid - was busy texting. After I tooted the horn, I waited awhile longer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f48ace4906a4e2b143590b9c7db5590b460c6a7b.jpg"></article>]]></description>
+            <link>http://blogs.mprnews.org/newscut/2016/04/video-texting-driver-hits-hudson-police-car/</link>
+            <guid isPermaLink="false">d7c87494-1597-4ff6-a886-8b0530086c6c</guid>
+            <pubDate>Mon, 11 Apr 2016 19:15:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No proof of texting before fatal crash]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/textninjauno/a746ae3c-9895-415b-b71d-05298837e26b/index.html</link>
             <guid isPermaLink="false">a746ae3c-9895-415b-b71d-05298837e26b</guid>
             <pubDate>Mon, 11 Apr 2016 19:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://blogs.mprnews.org/newscut/2016/04/video-texting-driver-hits-hudson-police-car/</p>]]></description>
-            <link>https://thegrid.ai/textninjauno/e5e65a76-a398-4954-812a-f73a493252a4/index.html</link>
-            <guid isPermaLink="false">e5e65a76-a398-4954-812a-f73a493252a4</guid>
-            <pubDate>Mon, 11 Apr 2016 19:08:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
